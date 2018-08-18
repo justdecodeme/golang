@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+	// var name type = expression
+	// Either the type or the = expression part may be omitted
 
 	const (
 		first = iota
