@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-
 	// 0 is length & 3 is the capacity
 	// length - number of elements referred to by the slice
 	// capacity - number of elements in the underlying array
